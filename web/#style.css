@@ -1,0 +1,48 @@
+.navbar {
+    background-color: black;
+}
+
+.navbar-text,
+.navbar-brand,
+.nav-link {
+    color: #fff !important; 
+}
+
+.button {
+    border-radius:10px;
+}
+
+.navbar {
+    background-color: red;
+}
+
+.h1{
+    text-align: end;
+}
+ body{
+    margin:0;
+ }
+ .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .text {
+    margin-right: 20px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .image-right {
+    width: 100px; /* adjust image size */
+    height: auto;
+  }
+  
+  
+  
+  
+  
